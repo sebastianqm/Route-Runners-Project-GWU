@@ -1,0 +1,27 @@
+/* Format */
+@charset "utf-8";
+
+/* Reset Styles */
+
+html, body, div, header, main, section, article, footer,
+h1, p, span, img {
+   margin: 0;
+   padding: 0;
+   border: 0;
+   font-size: 100%;
+   vertical-align: baseline;
+}
+
+header, main, section, article, footer {
+   display: block;
+}
+
+body {
+   line-height: 1;
+}
+
+img {
+   max-width: 100%;
+   height: auto;
+   display: block;
+}
